@@ -1,4 +1,4 @@
-# Fix Uploads Dir
+# Fix Upload Dir
 Wordpress recently stopped using the UPLOADS constant (which usually lets you control which directory images/media are saved in) on my site, breaking all of my media not manually linked. This was designed as a quick and dirty fix using filters to modify the upload directory manually. 
 I've since added  a settings page.
 
