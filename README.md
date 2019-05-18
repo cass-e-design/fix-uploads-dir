@@ -16,10 +16,10 @@ I've since added  a settings page.
 * To disable the plugin, deactivate it.
 
 ## Authors
-**[Cass-E Design]** (https://cass-e.net)
+**[Cass-E Design](https://cass-e.net)**
 
 ## License
-This project is licensed under GPLv2 or later, because it's a wordpress plugin - see the [LICENSE.md] (LICENSE.md) file for details.
+This project is licensed under GPLv2 or later, because it's a wordpress plugin - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgements
 I learned how to use the Wordpress Settings API from, among other sources: https://code.tutsplus.com/articles/create-wordpress-plugins-with-oop-techniques--net-20153
